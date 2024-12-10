@@ -1,7 +1,7 @@
 # GifEditor
 C++ GUI Application to Manipulate GIF Files
 
-## Goals for Gif Editor:
+## Goals for Gif Editor
 
 - Import and parse GIFs.
 - Implement LZW Compression to parse image data from GIFs.
@@ -15,13 +15,13 @@ C++ GUI Application to Manipulate GIF Files
 - Change the speed of the GIF.
 - Import mp4 files and convert them to GIFs for editing.
 
-## Things to learn:
+## Things to learn
 
 - How to parse GIFs.
 - How LZW Compression works.
 - How to manipulate GIF data.
 
-## Roadmap:
+## Roadmap
 
 1. Create a basic GUI for the application.
 	- allow for the importing of GIF files.
